@@ -10,7 +10,7 @@
   "dependencies": {
     "q": "^1.5.1",
     "body-parser": "1.18.2",
-    "npm-check": "5.7.1"
+    "npm-check": "5.9.1"
   },
   "workspaces": [
     "./packages/*"
